@@ -4,6 +4,7 @@
   "description": "Fa Da Cai",
   "main": "HanGuoYuBot.js",
   "scripts": {
+    "start": "node HanGuoYuBot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Petingo",
