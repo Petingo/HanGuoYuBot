@@ -1,0 +1,14 @@
+{
+  "name": "hanguoyubot",
+  "version": "1.0.0",
+  "description": "Fa Da Cai",
+  "main": "HanGuoYuBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Petingo",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
